@@ -1,0 +1,269 @@
+
+Date: 25th August, Sunday
+Timing: 11AM-2PM
+Venue: Room-1
+
+The regular sessions will continue as usual: 4PM-8PM
+
+Agenda: Solve 2-3 problems from each of the following links:
+
+a. https://www.hackerrank.com/domains/algorithms/warmup
+
+b. https://www.hackerrank.com/domains/algorithms/implementation
+
+c. http://codeforces.com/problemset?order=BY_SOLVED_DESC
+
+d. https://www.codechef.com/problems/school?sort_by=SuccessfulSubmission&sorting_order=desc
+
+e. https://www.hackerrank.com/contests/smart-interviews/
+
+Smart Interviews - Learn | Evolve | Excel
+
+facebook page
+smart interview signup
+
+
+1. Programming Essentials - https://drive.google.com/file/d/1EuYeu29E0aIMcagdQ5ndSSv7frdzNTre
+
+2. Data Types, Operators and Bit Manipulations - https://drive.google.com/file/d/1PpT8Vqwb9NaTWwv_QVpgMfA_ZItx6CVX
+
+3. Complexity Analysis of Algorithms - https://drive.google.com/file/d/1rRKCo1BPZU8TQ0SdPOvyiZ8FBvhgyC4B
+
+4. Complexity Analysis Problem Set - https://drive.google.com/file/d/1q9cHNUThCZaajYu1tZtwI4gU35Ss4N5C
+
+5. Complexity Analysis Solution Set - https://drive.google.com/file/d/1KjBUuzRoDNvCAgu_LpabdB8oLsW1W6Y3
+
+
+
+Assignment-1
+
+1. Atleast 15 problems from the 1st 20 problems in https://www.hackerrank.com/contests/smart-interviews/
+
+2. All problems from https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems
+
+3. Atleast 5 problems from https://www.interviewbit.com/courses/programming/topics/bit-manipulation/#problems
+
+4. Atleast 5 problems from https://www.hackerrank.com/domains/algorithms/bit-manipulation
+
+Target: "Overall Score" +2000 from your current score.
+
+You can check your scores here: https://tinyurl.com/si-weekend-batch-13
+
+Do let us know if you are facing any kind of issues.
+
+Smart Interviews - Learn | Evolve | Excel
+
+1 - 09 - 2019
+https://www.hackerrank.com/challenges/magic-square-forming/problem?h_r=internal-search 
+
+
+Assignment-2
+
+1. 10 problems from "Compute a power b" to "Selection Sort" in https://www.hackerrank.com/contests/smart-interviews/challenges/filters/page:2
+
+2. Following problems from https://www.hackerrank.com/domains/algorithms/implementation :
+a) Migratory Birds
+b) Sock Merchant
+c) Picking Numbers
+d) Non-Divisible Subset
+e) Forming a Magic Square
+
+3. Atleast 2 problems from https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking
+
+4. Atleast 5 problems from each of the following section from https://www.interviewbit.com/courses/programming/topics/
+BitManipulation/Array/Math/Backtracking
+
+Target: "Overall Score" >= 4000
+
+You can check your scores here: https://tinyurl.com/si-weekend-batch-13
+
+Do let us know if you are facing any kind of issues.
+
+
+
+1. Programming Essentials - https://drive.google.com/file/d/1EuYeu29E0aIMcagdQ5ndSSv7frdzNTre
+
+2. Data Types, Operators and Bit Manipulations - https://drive.google.com/file/d/1PpT8Vqwb9NaTWwv_QVpgMfA_ZItx6CVX
+
+3. Complexity Analysis of Algorithms - https://drive.google.com/file/d/1rRKCo1BPZU8TQ0SdPOvyiZ8FBvhgyC4B
+
+4. Complexity Analysis Problem Set - https://drive.google.com/file/d/1q9cHNUThCZaajYu1tZtwI4gU35Ss4N5C
+
+5. Complexity Analysis Solution Set - https://drive.google.com/file/d/1KjBUuzRoDNvCAgu_LpabdB8oLsW1W6Y3
+
+6. Recursion - https://drive.google.com/file/d/19YF-ImSsdbUebJkg_h-lXXzMIg9Rmis9
+
+7. Sorting - https://drive.google.com/file/d/15xfXxH3hBcv28Whthqmtty96murPKLss
+
+Smart Interviews - Learn | Evolve | Excel
+
+
+
+
+Assignment-3
+
+1. 15 problems in https://www.hackerrank.com/contests/smart-interviews/challenges/filters/page:3 from “Sum of Pairs” to “Finding Frequency”
+
+2. https://www.hackerrank.com/contests/smart-interviews/challenges/si-finding-frequency [Try to implement all the last 4 solutions <4,5,6,7>]
+
+3. Atleast 8 problems from https://www.interviewbit.com/courses/programming/topics/two-pointers/#problems
+
+4. Atleast 5 problems from https://www.interviewbit.com/courses/programming/topics/binary-search/#problems
+
+Target: "Overall Score" >= 5000
+
+You can check your scores here: https://tinyurl.com/si-weekend-batch-13
+
+Do let us know if you are facing any kind of issues.
+
+Smart Interviews - Learn | Evolve | Excel
+
+1. Thorough revision of entire notes [5 hours]
+
+2. Participate in Codechef September Long Contest - https://www.codechef.com/SEPT19 and solve atleast 2 problems. [3 hours]
+
+3. Participate in atleast 1 hiring challenge on HackerEarth - https://www.hackerearth.com/challenges/ [2 hours]
+
+4. Overall Score: +1000 on top of your current score [Check the Weekly Score sheet] [5 hours]
+
+5. Go through the basics of Hashing. [1 hour]
+
+1. Programming Essentials - https://drive.google.com/file/d/1EuYeu29E0aIMcagdQ5ndSSv7frdzNTre
+
+2. Data Types, Operators and Bit Manipulations - https://drive.google.com/file/d/1PpT8Vqwb9NaTWwv_QVpgMfA_ZItx6CVX
+
+3. Complexity Analysis of Algorithms - https://drive.google.com/file/d/1rRKCo1BPZU8TQ0SdPOvyiZ8FBvhgyC4B
+
+4. Complexity Analysis Problem Set - https://drive.google.com/file/d/1q9cHNUThCZaajYu1tZtwI4gU35Ss4N5C
+
+5. Complexity Analysis Solution Set - https://drive.google.com/file/d/1KjBUuzRoDNvCAgu_LpabdB8oLsW1W6Y3
+
+6. Recursion - https://drive.google.com/file/d/19YF-ImSsdbUebJkg_h-lXXzMIg9Rmis9
+
+7. Sorting - https://drive.google.com/file/d/15xfXxH3hBcv28Whthqmtty96murPKLss
+
+8. Searching - https://drive.google.com/file/d/15QapSt_S8ki2EOfJffpWBnQqsiW47JGm
+
+Smart Interviews - Learn | Evolve | Excel
+
+Interesting Problems on BS
+
+1. https://www.hackerrank.com/contests/smart-interviews/challenges/si-cabinets-partitioning
+
+2. https://www.spoj.com/problems/AGGRCOW/
+
+3. https://www.interviewbit.com/problems/matrix-median/
+
+4. http://codeforces.com/contest/913/problem/D
+
+------------------------------------------------------------------------------------------------------------
+For lagging students
+------------------------------------------------------------------------------------------------------------
+
+(1) Any 10 problems from http://codeforces.com/problemset?order=BY_SOLVED_DESC . You can use http://codeforces.com/problemset/customtest or any other online/offline editor to write your codes, and once compiled/tested, you can submit them against the problem statement.
+
+(2) Any 10 problems from https://www.codechef.com/problems/school?sort_by=SuccessfulSubmission&sorting_order=desc . You can use https://www.codechef.com/ide to write your codes. Enter "Practice" in ContestName textbox and enter the Problem Code in the next textbox and click on "Select", you'll see the problem statement there itself. Once you compile/test your code, you can submit them then and there itself and get the response verdict. Note that it’s mandatory to provide custom input in codechef IDE to execute the code. The “Run” button does not run the code agaisnt sample IO.
+
+[For points, (1) and (2), if you are unable to solve a problem within 30 minutes, skip it and move to the next problem. The more problems you solve from the above, the more comfortable you'll get in online problem-solving skills.]
+
+(3) https://www.hackerrank.com/contests/smart-interviews/challenges
+
+Sum of array elements
+Print right-angled triangle 
+Check power of 2
+Flip Bits
+Compute a power b
+Towers of Hanoi
+Bubble Sort
+Product of 2 matrices
+Rotation of Matrix
+Binary Representation 
+LCM and HCF
+Selection Sort
+Insertion Sort
+Sum of Pairs
+Finding Frequency
+Subset Sum (Page-12 - Iterative & Recursive both)
+
+(4) http://hackerrank.com/domains/algorithms
+
+Solve Me First
+Simple Array Sum
+Compare the Triplets
+Diagonal Difference
+Plus Minus
+Staircase
+Apple and Orange
+Electronics Shop
+Breaking the Records
+Migratory Birds
+Bon Appétit
+Drawing Book
+Counting Valleys
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Materials for all the topics:
+
+1. Programming Essentials - https://drive.google.com/file/d/1EuYeu29E0aIMcagdQ5ndSSv7frdzNTre
+
+2. Data Types, Operators and Bit Manipulations - https://drive.google.com/file/d/1PpT8Vqwb9NaTWwv_QVpgMfA_ZItx6CVX
+
+3. Complexity Analysis of Algorithms - https://drive.google.com/file/d/1rRKCo1BPZU8TQ0SdPOvyiZ8FBvhgyC4B
+
+4. Complexity Analysis Problem Set - https://drive.google.com/file/d/1q9cHNUThCZaajYu1tZtwI4gU35Ss4N5C
+
+5. Complexity Analysis Solution Set - https://drive.google.com/file/d/1KjBUuzRoDNvCAgu_LpabdB8oLsW1W6Y3
+
+6. Recursion - https://drive.google.com/file/d/19YF-ImSsdbUebJkg_h-lXXzMIg9Rmis9
+
+7. Sorting - https://drive.google.com/file/d/15xfXxH3hBcv28Whthqmtty96murPKLss
+
+8. Searching - https://drive.google.com/file/d/15QapSt_S8ki2EOfJffpWBnQqsiW47JGm
+
+9. Hashing - https://drive.google.com/file/d/11hqPCUhg31vzzV_NBI8xwyaDTsud0W6K
+
+10. Strings - https://drive.google.com/file/d/14s8oalPkA5mtPOYvMD-kzc031rkKerud
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[8:36 am, 24/09/2019] +91 90306 65101: Assignment-5
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. All problems from "Find First Repeating Character" to "Subsequence Sum" in https://www.hackerrank.com/contests/smart-interviews/challenges/filters/page:6
+
+2. Atleast 15 problems from https://www.interviewbit.com/courses/programming/topics/strings/#problems
+
+3. Atleast 20 problems on strings from https://www.hackerrank.com/domains/algorithms/strings
+
+4.  Atleast 2 problems from https://www.hackerrank.com/domains/algorithms/game-theory
+
+Target: "Overall Score" >= 8000
+
+You can check your scores here: https://tinyurl.com/si-weekend-batch-13
+
+We expect everyone to visit this sheet on a regular basis and keep a track of your performance.
+
+Do let us know if you are facing any kind of issues.
+
+Smart Interviews - Learn | Evolve | Excel
+[8:36 am, 24/09/2019] +91 90306 65101: Additional problems from spoj
+
+ADACUT/ADAFRIEN/THREENUMBERS/TBATTLE/AGGRCOW/TDKPRIME/TDPRIMES/PRIME1/SUBXOR
+
+Start solving more problems from spoj.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
